@@ -15,3 +15,6 @@ or
 ```bash
 pip3 install -r requirements.txt
 ```
+
+## Remarks
+Update the logic under line 41 to define which columns to extract and what kind of information to process.
